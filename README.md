@@ -30,8 +30,9 @@ A robust banking application built with  Java, JavaFX, and MySQL, developed for 
 •	MySQL for backend database
 •	JDBC for DB connectivity
 
-Documentation
-UML and Design Artifacts
+## Documentation
+
+### UML and Design Artifacts
 •	Use Case Diagram: Describes primary interactions for Admin and Customer roles.
 •	Class Diagram: Shows core classes like Account, User, Transaction, Loan.
 •	Sequence Diagrams: For Login, Deposit, Loan Approval.
