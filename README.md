@@ -16,4 +16,10 @@ A robust banking application built with  Java, JavaFX, and MySQL, developed for 
 •	Perform deposits, withdrawals, and transfers
 •	Apply for and track loan status
 
-
+###  Core Modules
+•	Secure Authentication System
+•	Account Management
+•	Transaction Processing (Deposit, Withdraw, Transfer)
+•	Real-Time Loan Processing
+•	Audit Logging and Transaction Tracking
+•	Data Encryption & Secure MySQL Integration
