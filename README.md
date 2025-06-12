@@ -23,3 +23,10 @@ A robust banking application built with  Java, JavaFX, and MySQL, developed for 
 •	Real-Time Loan Processing
 •	Audit Logging and Transaction Tracking
 •	Data Encryption & Secure MySQL Integration
+
+##  Technologies Used
+•	Java SE 17
+•	JavaFX for GUI
+•	MySQL for backend database
+•	JDBC for DB connectivity
+
