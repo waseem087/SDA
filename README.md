@@ -50,5 +50,4 @@ A robust banking application built with  Java, JavaFX, and MySQL, developed for 
 
  All design artifacts are available in the /docs folder (add screenshots, PDFs, or draw.io exports).
 
-##Colaboration
-Collaborated with [Rafay Khattak](https://github.com/rafaykhattak)
+SDA project is in Collaboration with [Rafay Khattak](https://github.com/rafaykhattak)
