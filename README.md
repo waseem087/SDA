@@ -49,5 +49,3 @@ A robust banking application built with  Java, JavaFX, and MySQL, developed for 
 •	System Sequence Diagrams (SSD): For system-level message interactions.
 
  All design artifacts are available in the /docs folder (add screenshots, PDFs, or draw.io exports).
-
-SDA project is in Collaboration with [Rafay Khattak](https://github.com/rafaykhattak)
